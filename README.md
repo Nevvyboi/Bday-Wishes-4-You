@@ -20,7 +20,9 @@ Welcome to **Bday Wishes 4 You**, the perfect app to make sure you never forget 
 
 ## 📸 **Screenshots**
 
-![{9663B507-38E0-493F-96F9-49455824F957}](https://github.com/user-attachments/assets/691ba130-4ac9-4d27-a84b-836b55c9f10b)
+![{FD5E5C07-A3BA-4208-8CD3-4D384E4B129B}](https://github.com/user-attachments/assets/2159645f-d4f7-4cc9-ba59-12717fcc7abf)
+
+
 
 
 - **Top Features**: Add birthdays, view upcoming birthdays, and customize everything from profile pictures to themes.
