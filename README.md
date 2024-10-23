@@ -20,7 +20,8 @@ Welcome to **Bday Wishes 4 You**, the perfect app to make sure you never forget 
 
 ## 📸 **Screenshots**
 
-![{FD5E5C07-A3BA-4208-8CD3-4D384E4B129B}](https://github.com/user-attachments/assets/2159645f-d4f7-4cc9-ba59-12717fcc7abf)
+![{9E33C8F2-F72D-42B7-B13C-46CDCC8F5440}](https://github.com/user-attachments/assets/c3aff0ef-c70b-4964-9956-c51e40a6783a)
+
 
 
 
